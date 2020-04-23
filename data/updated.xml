@@ -1,0 +1,416 @@
+<?xml version="1.0" ?>
+<items_list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	
+	<phone id="result_0">
+		
+		
+		<model_name>Apple iPhone 8, 64GB, Space Gray - Fully Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.1</rating>
+		
+		
+		<amount_of_customers currency="people">3,671</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_1">
+		
+		
+		<model_name>Samsung SM-G900V - Galaxy S5 - 16GB Android Smartphone Verizon  - Black</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">104.00</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">2,619</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_2">
+		
+		
+		<model_name>Apple iPhone 7, 32GB, Rose Gold - Fully Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">129.00</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">7,900</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_3">
+		
+		
+		<model_name>Apple iPhone XR, 64GB, Red - Fully Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.5</rating>
+		
+		
+		<amount_of_customers currency="people">3,548</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_4">
+		
+		
+		<model_name>Samsung Galaxy S9 Unlocked Smartphone - Lilac Purple -</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.2</rating>
+		
+		
+		<amount_of_customers currency="people">641</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_5">
+		
+		
+		<model_name>Samsung Galaxy Note9 GSM Unlocked Phone with 6.4in Screen and 128GB - Ocean Blue</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.3</rating>
+		
+		
+		<amount_of_customers currency="people">2,401</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_6">
+		
+		
+		<model_name>Samsung Galaxy S9 G960U 64GB Unlocked GSM 4G LTE Phone w/ 12MP Camera - Midnight Black</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.1</rating>
+		
+		
+		<amount_of_customers currency="people">3,285</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_7">
+		
+		
+		<model_name>Google Pixel 2 64 GB, Black Factory Unlocked</model_name>
+		
+		
+		<company_name>Google</company_name>
+		
+		
+		<price currency="euro">102.96</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">669</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_8">
+		
+		
+		<model_name>Samsung Galaxy S4 I337 16GB Unlocked GSM 4G LTE Quad-Core Smartphone w/ 13MP Camera - Black</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">89.99</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">121</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_9">
+		
+		
+		<model_name>Samsung Galaxy S10 Factory Unlocked Phone with 128GB, Prism Black</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.1</rating>
+		
+		
+		<amount_of_customers currency="people">162</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_10">
+		
+		
+		<model_name>Apple iPhone 6S, 16GB, Space Gray - Fully Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">98.39</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">506</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_11">
+		
+		
+		<model_name>Apple iPhone 7 Matte Black 32GB Verizon Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">146.74</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">148</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_12">
+		
+		
+		<model_name>Apple Iphone X, 256GB, Space Gray - Fully Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.1</rating>
+		
+		
+		<amount_of_customers currency="people">2,114</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_13">
+		
+		
+		<model_name>Apple iPhone 8 a1905 64GB LTE GSM Unlocked</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">150.0</price>
+		
+		
+		<rating>4.2</rating>
+		
+		
+		<amount_of_customers currency="people">156</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_14">
+		
+		
+		<model_name>Apple iPhone 6S, 64GB, Rose Gold - For AT&amp;T / T-Mobile</model_name>
+		
+		
+		<company_name>Motorola</company_name>
+		
+		
+		<price currency="euro">124.99</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">2,155</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>USA</name>
+			<code>US</code>
+		</country>
+	</phone>
+	
+	
+	<phone id="result_15">
+		
+		
+		<model_name>Samsung Galaxy S3-16GB Smartphone - Verizon - White</model_name>
+		
+		
+		<company_name>Samsung</company_name>
+		
+		
+		<price currency="euro">69.99</price>
+		
+		
+		<rating>0.0</rating>
+		
+		
+		<amount_of_customers currency="people">39</amount_of_customers>
+		
+	
+		<country format="iso-3166">
+			<name>South Korea</name>
+			<code>KR</code>
+		</country>
+	</phone>
+	
+
+	<phone id="result_16">
+		<model_name>Xiaomi Redmi Note 8 Pro 6/128</model_name>
+		<company_name>Xiaomi</company_name>
+		<price currency="euro">300</price>
+		<rating>5</rating>
+		<amount_of_customers currency="people">10,785</amount_of_customers>
+		<country format="iso-3166">
+			<name>China</name>
+			<code>CN</code>
+		</country>
+	</phone>
+</items_list>
